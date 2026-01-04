@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+
+# Sitemaps
+Sitemap: https://prodready.dev/sitemap.xml
+
+# Crawl-delay (optional, be polite to search engines)
+Crawl-delay: 1
+
+# Disallow admin/internal routes
+Disallow: /api/
