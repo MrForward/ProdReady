@@ -1,4 +1,4 @@
-# 🛡️ ProdReady - AI Code Security Audit
+# 🛡️ ProdReady - Code Security & SEO Audit for AI Code
 
 <div align="center">
 
