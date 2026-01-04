@@ -345,20 +345,6 @@ Built with:
 - [Radix UI](https://www.radix-ui.com/) - UI components
 - [Supabase](https://supabase.com/) - Database
 - [Vercel](https://vercel.com/) - Hosting
-
-Inspired by:
-- [ESLint](https://eslint.org/) - JavaScript linting
-- [Lighthouse](https://developers.google.com/web/tools/lighthouse) - Web auditing
-- [Snyk](https://snyk.io/) - Security scanning
-
----
-
-## 💬 Community
-
-- **Twitter:** [@prodready](https://twitter.com/prodready)
-- **Discord:** [Join our community](https://discord.gg/prodready)
-- **GitHub Discussions:** [Ask questions](https://github.com/prodready/prodready/discussions)
-
 ---
 
 ## 🚀 Get Started
