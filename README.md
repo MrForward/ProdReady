@@ -359,7 +359,7 @@ Ready to ship production-ready code?
 
 <div align="center">
 
-**Made with ❤️ by developers, for developers**
+**Made with ❤️ by product manager, for developers and vibecoders**
 
 [Website](https://prodready.dev) • [GitHub](https://github.com/prodready/prodready) • [Twitter](https://twitter.com/prodready)
 
